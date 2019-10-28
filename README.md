@@ -7,12 +7,12 @@ Detail tentang aplikasi Liga 1 Indonesia 2019
 Berisi screenshoot dari aplikasi yang dibuat
 
 ## Build With
- - [Flutter] (https://flutter.dev)
- - [Montserrat Fonrs] (https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat)
+ - [Flutter](https://flutter.dev)
+ - [Montserrat Fonrs](https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat)
  
 ## Created By
 
- [Mei Rusfandi] (https://meirusfandi.com)
+ [Mei Rusfandi](https://meirusfandi.com)
  
  
 ## Online Study Group Eudeka!
