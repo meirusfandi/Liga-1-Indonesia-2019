@@ -13,8 +13,6 @@ memberikan informasi berupa
 
 ## ScreenShoot
 
-Berisi screenshoot dari aplikasi yang dibuat
-
 ## Build With
  - [Flutter](https://flutter.dev)
  - [Montserrat Fonrs](https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat)

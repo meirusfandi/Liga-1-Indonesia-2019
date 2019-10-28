@@ -28,19 +28,22 @@ class DetailScreen extends StatelessWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
-                      Column(
-                        children: <Widget>[
-                          Icon(
-                            Icons.person,
-                            size: 16.0,
-                          ),
-                          Text(
-                              'Coach',
-                            style: TextStyle(
-                              fontFamily: 'Montserrat'
+                      Container(
+                        width: 100.0,
+                        child: Column(
+                          children: <Widget>[
+                            Icon(
+                              Icons.person,
+                              size: 16.0,
                             ),
-                          )
-                        ],
+                            Text(
+                              'Coach',
+                              style: TextStyle(
+                                  fontFamily: 'Montserrat'
+                              ),
+                            )
+                          ],
+                        ),
                       ),
                       Text(
                         model.coach,
@@ -56,19 +59,22 @@ class DetailScreen extends StatelessWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
-                      Column(
-                        children: <Widget>[
-                          Icon(
-                            Icons.person,
-                            size: 16.0,
-                          ),
-                          Text(
-                              'Captain',
-                            style: TextStyle(
-                                fontFamily: 'Montserrat'
+                      Container(
+                        width: 100.0,
+                        child: Column(
+                          children: <Widget>[
+                            Icon(
+                              Icons.person,
+                              size: 16.0,
                             ),
-                          )
-                        ],
+                            Text(
+                              'Captain',
+                              style: TextStyle(
+                                  fontFamily: 'Montserrat'
+                              ),
+                            )
+                          ],
+                        ),
                       ),
                       Text(
                         model.captain,
@@ -84,19 +90,22 @@ class DetailScreen extends StatelessWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
-                      Column(
-                        children: <Widget>[
-                          Icon(
-                            Icons.place,
-                            size: 16.0,
-                          ),
-                          Text(
-                              'From',
-                            style: TextStyle(
-                                fontFamily: 'Montserrat'
+                      Container(
+                        width: 100.0,
+                        child: Column(
+                          children: <Widget>[
+                            Icon(
+                              Icons.place,
+                              size: 16.0,
                             ),
-                          )
-                        ],
+                            Text(
+                              'From',
+                              style: TextStyle(
+                                  fontFamily: 'Montserrat'
+                              ),
+                            )
+                          ],
+                        ),
                       ),
                       Text(
                         model.from,
@@ -112,19 +121,22 @@ class DetailScreen extends StatelessWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
-                      Column(
-                        children: <Widget>[
-                          Icon(
-                            Icons.place,
-                            size: 16.0,
-                          ),
-                          Text(
-                              'Stadion',
-                            style: TextStyle(
-                                fontFamily: 'Montserrat'
+                      Container(
+                        width: 100.0,
+                        child: Column(
+                          children: <Widget>[
+                            Icon(
+                              Icons.place,
+                              size: 16.0,
                             ),
-                          )
-                        ],
+                            Text(
+                              'Stadion',
+                              style: TextStyle(
+                                  fontFamily: 'Montserrat'
+                              ),
+                            )
+                          ],
+                        ),
                       ),
                       Text(
                         model.stadion,
@@ -140,19 +152,22 @@ class DetailScreen extends StatelessWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
-                      Column(
-                        children: <Widget>[
-                          Icon(
-                            Icons.group,
-                            size: 16.0,
-                          ),
-                          Text(
-                              'Capacity',
-                            style: TextStyle(
-                                fontFamily: 'Montserrat'
+                      Container(
+                        width: 100.0,
+                        child: Column(
+                          children: <Widget>[
+                            Icon(
+                              Icons.group,
+                              size: 16.0,
                             ),
-                          )
-                        ],
+                            Text(
+                              'Capacity',
+                              style: TextStyle(
+                                  fontFamily: 'Montserrat'
+                              ),
+                            )
+                          ],
+                        ),
                       ),
                       Text(
                         model.capacity.toString(),
