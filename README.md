@@ -12,6 +12,9 @@ memberikan informasi berupa
 * informasi mengenai deskripsi singkat dari tim tersebut. 
 
 ## ScreenShoot
+![ESPN Mobile App](https://optimus.hoster.co.id:2083/cpsess4111610318/viewer/home%2fjicgqidt%2fres.meirusfandi.com%2fassets%2fimages%2feudeka%2ftask3/main.png)
+
+![ESPN Mobile App](https://optimus.hoster.co.id:2083/cpsess4111610318/viewer/home%2fjicgqidt%2fres.meirusfandi.com%2fassets%2fimages%2feudeka%2ftask3/detail.png)
 
 ## Build With
  - [Flutter](https://flutter.dev)
