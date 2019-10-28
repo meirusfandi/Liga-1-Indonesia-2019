@@ -170,7 +170,7 @@ class DetailScreen extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        model.capacity.toString(),
+                        model.capacity.toString()+ ' Penonton',
                         style: TextStyle(
                           fontSize: 16.0,
                           letterSpacing: 8.0,
