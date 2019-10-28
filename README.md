@@ -19,6 +19,7 @@ memberikan informasi berupa
 ## Build With
  - [Flutter](https://flutter.dev)
  - [Montserrat Fonrs](https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat)
+ - [Liga 1 2019 Wikipedia](https://id.wikipedia.org/wiki/Liga_1_2019)
  
 ## Created By
 
