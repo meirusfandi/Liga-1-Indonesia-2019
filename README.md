@@ -1,6 +1,9 @@
 # Liga 1 Indonesia 2019 (Tugas 3 - OSG Batch 7)
 
-Detail tentang aplikasi Liga 1 Indonesia 2019
+Aplikasi Liga 1 Indonesia 2019 merupakan sebuah aplikasi yang menampilkan peserta dari kejuaraan Liga 1 Indonesia pada tahun 2019.
+Halaman utama menampilkan logo dan nama dari masing-masing club sepak bola, dan pada halaman detail dari masing-masing club 
+memberikan informasi berupa poster, nama pelatih, nama kapten, nama stadion yang digunakan sebagai tuan rumah, kapasistas penoton pada stadion tersebut,
+dan informasi mengenai deskripsi singkat dari tim tersebut. 
 
 ## ScreenShoot
 
@@ -34,4 +37,4 @@ Email : [info@eudeka.id](mailto:info@eudeka.id)
 
 ---
 
-###### tags: `Flutter` `Eudeka` `OSG05`
+###### tags: `Flutter` `Eudeka` `OSG07`
