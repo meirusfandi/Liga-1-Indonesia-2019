@@ -1,9 +1,15 @@
 # Liga 1 Indonesia 2019 (Tugas 3 - OSG Batch 7)
 
-Aplikasi Liga 1 Indonesia 2019 merupakan sebuah aplikasi yang menampilkan peserta dari kejuaraan Liga 1 Indonesia pada tahun 2019.
-Halaman utama menampilkan logo dan nama dari masing-masing club sepak bola, dan pada halaman detail dari masing-masing club 
-memberikan informasi berupa poster, nama pelatih, nama kapten, nama stadion yang digunakan sebagai tuan rumah, kapasistas penoton pada stadion tersebut,
-dan informasi mengenai deskripsi singkat dari tim tersebut. 
+Aplikasi Liga 1 Indonesia 2019 merupakan sebuah aplikasi yang menampilkan peserta dari kejuaraan Liga 1 Indonesia pada tahun 2019. Halaman utama menampilkan logo dan nama dari masing-masing club sepak bola, dan pada halaman detail dari masing-masing club
+memberikan informasi berupa
+* nama tim, 
+* asal kota team,
+* poster, 
+* nama pelatih, 
+* nama kapten, 
+* nama stadion yang digunakan sebagai tuan rumah, 
+* kapasistas penoton pada stadion tersebut, dan
+* informasi mengenai deskripsi singkat dari tim tersebut. 
 
 ## ScreenShoot
 
