@@ -61,7 +61,7 @@ flutter:
     - family: Montserrat
       fonts:
         - asset: fonts/montserrat_italic.ttf
-        - asset: fonts/montserrat_reguler.ttf
+        - asset: fonts/montserrat_regular.ttf
         - asset: fonts/montserrat_medium.ttf
   # fonts:
   #   - family: Schyler

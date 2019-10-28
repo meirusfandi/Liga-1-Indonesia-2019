@@ -29,7 +29,7 @@ class DetailScreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
                       Container(
-                        width: 100.0,
+                        width: 80.0,
                         child: Column(
                           children: <Widget>[
                             Icon(
@@ -48,7 +48,7 @@ class DetailScreen extends StatelessWidget {
                       Text(
                         model.coach,
                         style: TextStyle(
-                          fontSize: 16.0,
+                          fontSize: 14.0,
                           fontFamily: 'Montserrat',
                           letterSpacing: 8.0,
                         ),
@@ -60,7 +60,7 @@ class DetailScreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
                       Container(
-                        width: 100.0,
+                        width: 80.0,
                         child: Column(
                           children: <Widget>[
                             Icon(
@@ -79,7 +79,7 @@ class DetailScreen extends StatelessWidget {
                       Text(
                         model.captain,
                         style: TextStyle(
-                          fontSize: 16.0,
+                          fontSize: 14.0,
                           letterSpacing: 8.0,
                           fontFamily: 'Montserrat'
                         ),
@@ -91,7 +91,7 @@ class DetailScreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
                       Container(
-                        width: 100.0,
+                        width: 80.0,
                         child: Column(
                           children: <Widget>[
                             Icon(
@@ -110,7 +110,7 @@ class DetailScreen extends StatelessWidget {
                       Text(
                         model.from,
                         style: TextStyle(
-                          fontSize: 16.0,
+                          fontSize: 14.0,
                           letterSpacing: 8.0,
                           fontFamily: 'Montserrat'
                         ),
@@ -122,7 +122,7 @@ class DetailScreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
                       Container(
-                        width: 100.0,
+                        width: 80.0,
                         child: Column(
                           children: <Widget>[
                             Icon(
@@ -141,7 +141,7 @@ class DetailScreen extends StatelessWidget {
                       Text(
                         model.stadion,
                         style: TextStyle(
-                          fontSize: 16.0,
+                          fontSize: 14.0,
                           letterSpacing: 8.0,
                           fontFamily: 'Montserrat'
                         ),
@@ -153,7 +153,7 @@ class DetailScreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: <Widget>[
                       Container(
-                        width: 100.0,
+                        width: 80.0,
                         child: Column(
                           children: <Widget>[
                             Icon(
@@ -172,7 +172,7 @@ class DetailScreen extends StatelessWidget {
                       Text(
                         model.capacity.toString()+ ' Penonton',
                         style: TextStyle(
-                          fontSize: 16.0,
+                          fontSize: 14.0,
                           letterSpacing: 8.0,
                           fontFamily: 'Montserrat'
                         ),
@@ -183,7 +183,7 @@ class DetailScreen extends StatelessWidget {
                   Text(
                     model.history,
                     style: TextStyle(
-                      fontSize: 14.0,
+                      fontSize: 16.0,
                       fontFamily: 'Montserrat'
                     ),
                   )
